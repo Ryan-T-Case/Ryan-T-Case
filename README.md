@@ -17,7 +17,7 @@
 - 🎮 I like playing video games, especially Nintendo, Pokémon, and Sonic. <img width="25" height="25" alt="mario" src="https://user-images.githubusercontent.com/41136231/158031091-18df92c2-011b-43c4-91f7-784f0069538e.gif"><img width="25" height="25" alt="link" src="https://user-images.githubusercontent.com/41136231/158031171-1e8be3af-1eee-4715-9077-3ea57461bf17.gif"><img width="25" height="25" alt="pokeball" src="https://user-images.githubusercontent.com/41136231/158031104-50b2e3c5-6c83-4e59-af4a-83b1738b5133.gif"><img width="25" height="25" alt="sonic" src="https://user-images.githubusercontent.com/41136231/158031107-dc38c809-3622-49d8-b59f-1d682a797dbe.gif">
 
 ## What I'm working on...
-All of my personal projects on GitHub are currently out of date, and do not reflect my current skills 😅. I would love to start working on more personal projects as I have the time. The first one I have in mind is a video game collection tracker web application, so stay tuned for that!
+All of my personal projects on GitHub are currently outdated, and do not reflect my current skills 😅. I would love to start working on more personal projects as I have the time. The first one I have in mind is a video game collection tracker web application, so stay tuned for that!
 
 ## Connect with me...
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ryan-t-case/). Don't be a stranger 😁
