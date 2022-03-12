@@ -9,7 +9,8 @@
 
 ## A little about me...
 - ⛪ I am a Christian, and God is an important part of my life.
-- 🏫 I have a Bachelor's degree in Psychology from [Liberty University](https://www.liberty.edu/) and I am an alumni of the [University of Richmond Coding Bootcamp](https://bootcamps.richmond.edu/coding/).
+- 🏫 I have a Bachelor's degree in Psychology from [Liberty University](https://www.liberty.edu/)
+- 🚀 I am an alumni of the [University of Richmond Coding Bootcamp](https://bootcamps.richmond.edu/coding/).
 - ❤️ I have been married to my beautiful wife since June of 2017.
 - 🐶 We currently have 3 dogs: an aussie mix, a corgi-chihuaha mix, and a yorkie mix.
 - 😆 People say I have a good sense of humor. I love puns, particularly dad jokes!
