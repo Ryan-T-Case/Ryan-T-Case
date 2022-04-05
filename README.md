@@ -1,6 +1,6 @@
 ![hello-there](https://user-images.githubusercontent.com/41136231/158029569-b948a5b9-10b8-4d11-b801-d6f767dc9678.gif)
 
-### My name is Ryan Case, and I am a Senior Software Engineer!
+### My name is Ryan Case, and I am a Software Engineer!
 
 - I love channeling my inner creativity and problem solving skills to build high quality UX/UI's. 🎨🧠💻
 - I like working with TypeScript, JavaScript, React, and Vue.js. <img width="20" height="20" alt="typescript" src="https://user-images.githubusercontent.com/41136231/158030752-bc73eee5-5369-4f55-b921-2513083971b9.png"> <img width="20" height="20" alt="javascript" src="https://user-images.githubusercontent.com/41136231/158030814-cdd90a71-7245-479e-90fb-699c7f2c364a.png"> <img width="20" height="20" alt="react" src="https://user-images.githubusercontent.com/41136231/158030848-5ee40653-3db8-47ad-b233-7c67185e611f.png"> <img width="20" height="20" alt="vue" src="https://user-images.githubusercontent.com/41136231/158030916-fd51d7f4-e7fd-431a-802e-b3130ee3d6a7.png"> 
